@@ -1,2 +1,2 @@
 # csgo_config
-config.cfg file for cs-go 
+config files for cs-go 
