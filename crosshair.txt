@@ -1,19 +1,10 @@
 cl_crosshair_drawoutline 0;
-
 cl_crosshairalpha 237;
-
 cl_crosshairstyle 4
-
 cl_crosshaircolor 2;
-
 cl_crosshairdot 0;
-
 cl_crosshairgap -1.5;
-
 cl_crosshairgap_useweaponvalue 0;
-
 cl_crosshairsize 3.5;
-
 cl_crosshairthickness 1;
-
 cl_crosshairusealpha 1
